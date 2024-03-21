@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**anthroponymy/anthroponymy** is a ✨ _special_ ✨ repository.
-
 Little bit about me.
 
 - 🔭 I’m currently working on - [Personal Project](https://github.com/anthroponymy/tenet)
