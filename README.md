@@ -8,3 +8,4 @@ Little bit about me.
 - 📫 How to reach me: [Web](https://www.navinkumar.net/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Cartilage is flexible and durable, yet is about half the normal density of bone.
+![download](https://github.com/user-attachments/assets/9fbede69-db5e-4108-912b-e1046368f63f)
